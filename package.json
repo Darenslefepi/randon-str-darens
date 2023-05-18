@@ -1,0 +1,27 @@
+{
+  "name": "randon-str-darens",
+  "version": "1.0.0",
+  "description": "Random String Mensajes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darenslefepi/randon-str-darens.git"
+  },
+  "keywords": [],
+  "author": "Andres Felipe Giraldo Garcia <felipe6668.afgg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Darenslefepi/randon-str-darens/issues"
+  },
+  "homepage": "https://github.com/Darenslefepi/randon-str-darens#readme",
+  "bin": {
+    "randon-str-darens": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
